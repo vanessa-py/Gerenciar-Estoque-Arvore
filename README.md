@@ -27,7 +27,7 @@
 
 | Integrante | Frente |
 | --- | --- |
-| Carla Vanessa | Árvore genérica, explosão e implosão |
+| Carla Vanessa | Árvore genérica |
 | Julia | CRUD de produtos e componentes |
 | João V. | Persistência dos dados |
 | Natanael | Persistência dos dados |
