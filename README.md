@@ -1,4 +1,4 @@
-# Explosão & Implosão de Produtos
+# Gerenciamento de produtos com árvore
 
 ![status](https://img.shields.io/badge/status-em%20desenvolvimento-blue)
 ![java](https://img.shields.io/badge/Java-17-ED8B00?logo=openjdk&logoColor=white)
